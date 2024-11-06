@@ -1,3 +1,5 @@
+***Design documents must include required details of the full version of the system but implementation can be limited to single theater development***
+
 Required design documents:
 1. System Introduction
 2. Use Case Diagram
