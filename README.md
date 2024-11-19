@@ -2,7 +2,10 @@
 
 Required design documents:
 1. System Introduction
-2. Use Case Diagram
+2. Use Case
+    - Use case diagram
+    - Scenario List
+    - 4 sequence/ system interaction diagrams
 3. Domain Layer Class Diagram
 4. State Transition Diagrams
 5. Presentation Layer Class Diagram
