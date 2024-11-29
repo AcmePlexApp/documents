@@ -62,7 +62,7 @@
             <mxPoint x="370" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-15" value="Movie:movie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-12" vertex="1" connectable="0">
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-15" value="movie:Movie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-12" vertex="1" connectable="0">
           <mxGeometry x="0.0111" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -87,7 +87,7 @@
             <mxPoint x="190" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-17" value="Movie:movie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-16" vertex="1" connectable="0">
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-17" value="movie:Movie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-16" vertex="1" connectable="0">
           <mxGeometry x="0.0111" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -98,7 +98,7 @@
             <mxPoint x="70" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-22" value="HTTP OK&lt;div&gt;(Movie:movie)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-18" vertex="1" connectable="0">
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-22" value="HTTP OK&lt;div&gt;(movie:Movie)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-18" vertex="1" connectable="0">
           <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
