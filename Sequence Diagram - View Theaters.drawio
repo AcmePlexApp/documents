@@ -1,0 +1,109 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="44" y="70" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value=":TheaterController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="184" y="70" width="110" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
+          <mxGeometry x="50" y="90" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-1" value="View Theaters &amp;amp; Showtimes&lt;div&gt;Created by: Ryan Baker&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="249" y="27" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-2" value=":TheaterService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="369" y="70" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NnvS8Uy1E-jfmDlCnL0Q-2" vertex="1">
+          <mxGeometry x="45" y="110" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-4" value=":TheaterRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="544" y="70" width="120" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NnvS8Uy1E-jfmDlCnL0Q-4" vertex="1">
+          <mxGeometry x="55" y="130" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="170" as="sourcePoint" />
+            <mxPoint x="233.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-9" value="HTTP GET&lt;br&gt;/theater/{id}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.0126" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244" y="190" as="sourcePoint" />
+            <mxPoint x="413.5" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="244" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-11" value="getTheaterById(movieId:Long)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.0126" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-12" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="NnvS8Uy1E-jfmDlCnL0Q-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="260" as="sourcePoint" />
+            <mxPoint x="424" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-15" value="Theater: theater" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-12" vertex="1" connectable="0">
+          <mxGeometry x="0.0111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="NnvS8Uy1E-jfmDlCnL0Q-3" target="NnvS8Uy1E-jfmDlCnL0Q-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="210" as="sourcePoint" />
+            <mxPoint x="574" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="424.5" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-14" value="findById(theaterId:Long)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.0126" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-16" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="290" as="sourcePoint" />
+            <mxPoint x="269" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-17" value="Theater: theater" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-16" vertex="1" connectable="0">
+          <mxGeometry x="0.0111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234" y="310" as="sourcePoint" />
+            <mxPoint x="99" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnvS8Uy1E-jfmDlCnL0Q-22" value="HTTP OK&lt;div&gt;(Theater: theater)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NnvS8Uy1E-jfmDlCnL0Q-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
